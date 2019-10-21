@@ -1,11 +1,12 @@
 # Introduction
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
 
-By Chris Le Roy (@brompwnie) chris@sensepost.com
 
-Kwetza is a tool that allows you to infect an existing Android application with a Meterpreter payload.
 
-# What does it do?
+
+
+
+
+ What does it do?
 
 Kwetza infects an existing Android application with either custom or default payload templates to avoid detection by antivirus. Kwetza allows you to infect Android applications using the target application's default permissions or inject additional permissions to gain additional functionality.
 
@@ -16,7 +17,7 @@ The manual steps automated by Kwetza can be found here: https://sensepost.com/bl
 
 Firstly get the code:
 ```
-git clone https://github.com/sensepost/kwetza.git
+https://github.com/msmajhi41/Injector.git
 ```
 
 Kwetza is written in Python and requires BeautifulSoup which can be installed using Pip:
