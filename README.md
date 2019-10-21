@@ -8,7 +8,7 @@
 
  What does it do?
 
-Kwetza infects an existing Android application with either custom or default payload templates to avoid detection by antivirus. Kwetza allows you to infect Android applications using the target application's default permissions or inject additional permissions to gain additional functionality.
+ms infects an existing Android application with either custom or default payload templates to avoid detection by antivirus. Kwetza allows you to infect Android applications using the target application's default permissions or inject additional permissions to gain additional functionality.
 
 # Where can I get the blogpost?
 The manual steps automated by Kwetza can be found here: https://sensepost.com/blog/2016/kwetza-infecting-android-applications/
